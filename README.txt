@@ -1,3 +1,1 @@
-前端在首页新增了“按照标签搜索”功能，可以选择标签检索图书。
-后端新增了CommentController以及相关的类，提供了commentBook和searchCommentByBookId接口，分别用于新增评论和根据书籍ID查找评论。
-后端BookContoller中新增了getBooksByType接口，用于根据标签（及其相关二重关系标签）检索图书。关于neo4j标签的实现，在启动类中建立了graphDB，在BookTypeRepository中进行了搜索。
+陈昊鹏，我命运般的陈昊鹏，到学期结束为止都没有真正意义上地分开过吧。。。
