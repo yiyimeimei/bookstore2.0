@@ -1,0 +1,88 @@
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://spring.io/guides/gs-producing-web-service"
+           targetNamespace="http://spring.io/guides/gs-producing-web-service" elementFormDefault="qualified">
+    <xs:element name="searchBookByDescriptionRequest">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="keyword" type="xs:string"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:group name="book">
+        <xs:sequence>
+            <xs:element name="bookId" type="xs:int"/>
+            <xs:element name="isbn" type="xs:string"/>
+            <xs:element name="title" type="xs:string"/>
+            <xs:element name="author" type="xs:string"/>
+            <xs:element name="type" type="xs:string"/>
+            <xs:element name="price" type="xs:int"/>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="inventory" type="xs:int"/>
+            <xs:element name="sales" type="xs:int"/>
+            <xs:element name="image1" type="xs:string"/>
+            <xs:element name="image2" type="xs:string"/>
+            <xs:element name="available" type="xs:int"/>
+        </xs:sequence>
+
+    </xs:group>
+
+    <!--<xs:complexType name="book">
+        <xs:sequence>
+            <xs:element name="bookId" type="xs:int"/>
+            <xs:element name="isbn" type="xs:string"/>
+            <xs:element name="title" type="xs:string"/>
+            <xs:element name="author" type="xs:string"/>
+            <xs:element name="type" type="xs:string"/>
+            <xs:element name="price" type="xs:int"/>
+            <xs:element name="description" type="xs:string"/>
+            <xs:element name="inventory" type="xs:int"/>
+            <xs:element name="sales" type="xs:int"/>
+            <xs:element name="image1" type="xs:string"/>
+            <xs:element name="image2" type="xs:string"/>
+            <xs:element name="available" type="xs:int"/>
+        </xs:sequence>
+    </xs:complexType>-->
+    <!--<xs:simpleType name="bookList">
+        <xs:list itemType="tns:book"/>
+    </xs:simpleType>-->
+    <xs:element name="searchBookByDescriptionResponse">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Param">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="book" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:group ref="tns:book"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+
+    <!--<xs:element name="RepQueryAcctDtl">
+        <xs:complexType>
+            <xs:complexContent>
+                <xs:extension base="">
+                    <xs:sequence>
+                        <xs:element name="Param">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element name="RecordSet" maxOccurs="unbounded">
+                                        <xs:complexType>
+                                            <xs:group ref="rs"/>
+                                        </xs:complexType>
+                                    </xs:element>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                </xs:extension>
+            </xs:complexContent>
+        </xs:complexType>
+    </xs:element>-->
+
+</xs:schema>

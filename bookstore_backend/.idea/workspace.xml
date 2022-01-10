@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e197eeba-d44c-4e0d-8bac-baa876e542f3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="陆伊敏" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1TBZLaBAtKHpVhOq0WwsOybwhIp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bookstore-docker/bookstore_backend" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.46043167" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.BookstoreApplication">
+    <configuration name="VisitControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reins.bookstore.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.reins.bookstore.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.reins.bookstore.controller.VisitControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitControllerTest.testVisitHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reins.bookstore.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.reins.bookstore.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.reins.bookstore.controller.VisitControllerTest" />
+      <option name="METHOD_NAME" value="testVisitHomePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitServiceImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reins.bookstore.serviceimpl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.reins.bookstore.serviceimpl" />
+      <option name="MAIN_CLASS_NAME" value="com.reins.bookstore.serviceimpl.VisitServiceImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VisitServiceImplTest.testVisitHomePage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bookstore_backend" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.reins.bookstore.serviceimpl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.reins.bookstore.serviceimpl" />
+      <option name="MAIN_CLASS_NAME" value="com.reins.bookstore.serviceimpl.VisitServiceImplTest" />
+      <option name="METHOD_NAME" value="testVisitHomePage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bookstore_backend [jaxb2:xjc]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="jaxb2:xjc" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="BookstoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bookstore_backend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.reins.bookstore.BookstoreApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.VisitControllerTest.testVisitHomePage" />
+      <item itemvalue="JUnit.VisitControllerTest" />
+      <item itemvalue="JUnit.VisitServiceImplTest" />
+      <item itemvalue="JUnit.VisitServiceImplTest.testVisitHomePage" />
+      <item itemvalue="Maven.bookstore_backend [jaxb2:xjc]" />
+      <item itemvalue="Spring Boot.BookstoreApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.bookstore_backend [jaxb2:xjc]" />
+        <item itemvalue="JUnit.VisitControllerTest" />
+        <item itemvalue="JUnit.VisitServiceImplTest" />
+        <item itemvalue="JUnit.VisitServiceImplTest.testVisitHomePage" />
+        <item itemvalue="JUnit.VisitControllerTest.testVisitHomePage" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\86187\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e197eeba-d44c-4e0d-8bac-baa876e542f3" name="Default Changelist" comment="" />
+      <created>1572935393326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572935393326</updated>
+      <workItem from="1572935402100" duration="1136000" />
+      <workItem from="1572936564269" duration="51449000" />
+      <workItem from="1573563602091" duration="23771000" />
+      <workItem from="1574054054109" duration="13487000" />
+      <workItem from="1574149241807" duration="875000" />
+      <workItem from="1574150633662" duration="16953000" />
+      <workItem from="1574674355276" duration="865000" />
+      <workItem from="1574841696443" duration="1480000" />
+      <workItem from="1575457682764" duration="1912000" />
+      <workItem from="1575469621699" duration="3813000" />
+      <workItem from="1576731215066" duration="210000" />
+      <workItem from="1581989290190" duration="252000" />
+      <workItem from="1581989551653" duration="191000" />
+      <workItem from="1581989888863" duration="8102000" />
+      <workItem from="1582156877751" duration="408000" />
+      <workItem from="1582157289034" duration="4540000" />
+      <workItem from="1582162865601" duration="14000" />
+      <workItem from="1582466211522" duration="595000" />
+      <workItem from="1582466814485" duration="2474000" />
+      <workItem from="1582502085563" duration="1728000" />
+      <workItem from="1582548362354" duration="50000" />
+      <workItem from="1583453714937" duration="501000" />
+      <workItem from="1583461428703" duration="258000" />
+      <workItem from="1583464578919" duration="263000" />
+      <workItem from="1583478101999" duration="439000" />
+      <workItem from="1583486419624" duration="3000" />
+      <workItem from="1583486429125" duration="399000" />
+      <workItem from="1621080187330" duration="23079000" />
+      <workItem from="1621123749287" duration="1839000" />
+      <workItem from="1621125616293" duration="262000" />
+      <workItem from="1621125892591" duration="130000" />
+      <workItem from="1621126046853" duration="23000" />
+      <workItem from="1621126187796" duration="41000" />
+      <workItem from="1621126303598" duration="11457000" />
+      <workItem from="1621426891483" duration="141000" />
+      <workItem from="1621771051141" duration="1206000" />
+      <workItem from="1622266880855" duration="6832000" />
+      <workItem from="1622373363408" duration="7277000" />
+      <workItem from="1622560412748" duration="19000" />
+      <workItem from="1623423503811" duration="2594000" />
+      <workItem from="1623465023443" duration="58746000" />
+      <workItem from="1624535993439" duration="81000" />
+      <workItem from="1625462299712" duration="597000" />
+      <workItem from="1625663049564" duration="3004000" />
+      <workItem from="1625725778971" duration="604000" />
+      <workItem from="1625754364875" duration="5219000" />
+      <workItem from="1625811454667" duration="6753000" />
+      <workItem from="1625916553701" duration="15150000" />
+      <workItem from="1625973166490" duration="29685000" />
+      <workItem from="1626050035764" duration="15895000" />
+      <workItem from="1626076413730" duration="572000" />
+      <workItem from="1626079233766" duration="1462000" />
+      <workItem from="1626426246481" duration="992000" />
+      <workItem from="1626655457126" duration="97000" />
+      <workItem from="1626673337539" duration="32000" />
+      <workItem from="1626673434737" duration="23000" />
+      <workItem from="1626762178355" duration="4792000" />
+      <workItem from="1626772187526" duration="40000" />
+      <workItem from="1627020173629" duration="4071000" />
+      <workItem from="1627227627775" duration="3709000" />
+      <workItem from="1627238765688" duration="15000" />
+      <workItem from="1631789358472" duration="1503000" />
+      <workItem from="1632227670968" duration="6392000" />
+      <workItem from="1632240951303" duration="475000" />
+      <workItem from="1632275237742" duration="4517000" />
+      <workItem from="1632279817724" duration="1438000" />
+      <workItem from="1632284312008" duration="1503000" />
+      <workItem from="1632289310432" duration="5589000" />
+      <workItem from="1632329214691" duration="63000" />
+      <workItem from="1632578438589" duration="1376000" />
+      <workItem from="1632670397460" duration="2405000" />
+      <workItem from="1632727447630" duration="1365000" />
+      <workItem from="1632745870804" duration="4205000" />
+      <workItem from="1632820241517" duration="2133000" />
+      <workItem from="1632880254245" duration="5387000" />
+      <workItem from="1632888347712" duration="8316000" />
+      <workItem from="1633766240422" duration="8440000" />
+      <workItem from="1633783717636" duration="3482000" />
+      <workItem from="1633789394758" duration="606000" />
+      <workItem from="1633793188262" duration="1585000" />
+      <workItem from="1633851575728" duration="303000" />
+      <workItem from="1633852987497" duration="561000" />
+      <workItem from="1633927339817" duration="609000" />
+      <workItem from="1634017874810" duration="616000" />
+      <workItem from="1634194529476" duration="59000" />
+      <workItem from="1634198998850" duration="10534000" />
+      <workItem from="1634223811838" duration="684000" />
+      <workItem from="1634224758313" duration="310000" />
+      <workItem from="1634225387904" duration="11484000" />
+      <workItem from="1634237901499" duration="1544000" />
+      <workItem from="1635052151997" duration="3402000" />
+      <workItem from="1635063886074" duration="14621000" />
+      <workItem from="1635158249657" duration="60000" />
+      <workItem from="1635604908812" duration="992000" />
+      <workItem from="1636985363247" duration="27000" />
+      <workItem from="1636987040291" duration="3708000" />
+      <workItem from="1637037189632" duration="4643000" />
+      <workItem from="1637066895878" duration="3803000" />
+      <workItem from="1637106307696" duration="8943000" />
+      <workItem from="1638440794211" duration="92000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="备份1，添加了admin入口" />
+    <option name="LAST_COMMIT_MESSAGE" value="备份1，添加了admin入口" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLIntegrityConstraintViolationException" package="java.sql" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.1.1/spring-ws-core-3.1.1.jar!/org/springframework/ws/server/endpoint/annotation/ResponsePayload.class</url>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/springframework/ws/spring-ws-core/3.1.1/spring-ws-core-3.1.1.jar!/org/springframework/ws/server/endpoint/annotation/PayloadRoot.class</url>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
